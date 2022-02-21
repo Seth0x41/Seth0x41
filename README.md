@@ -3,9 +3,8 @@
 ### Hi there 👋, Mahmoud Alarby
 
 
-- 🔭 I’m currently working on  = `NULL`
 - 🌱 I’m currently Studing Mathematics And Computer Science (BSc) 
-- 😄 I’m currently interested in Software Engneering `Data Science And Machine learning`
+- 😄 I’m currently interested in Software Engineering `Data Science And Machine learning`
 - ⚡ Ex-WebApp Penetration Tester
 - 📫 How to reach me: [Twitter](https://www.twitter.com/Seth0x41) [Facebook](https://www.facebook.com/Seth0x41)  
 
