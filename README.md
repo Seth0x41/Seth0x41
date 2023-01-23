@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently Studying Mathematics And Computer Science (BSc)
-- 😄 I’m currently interested in Software Engineering and Machine Learning
+- 😄 I’m currently interested in Software Engineering, Security and Machine Learning
 - ⚡ Ex-Web Application Penetration Tester
 
 
