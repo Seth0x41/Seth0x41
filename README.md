@@ -1,12 +1,11 @@
 
 
-### Hi there 👋, Mahmoud Alarby
+### Hi there 👋, Mahmoud Alaraby
 
 
-# 💫 About Me:
-- 🌱 I’m currently Studying Mathematics And Computer Science (BSc)
-- 😄 I’m currently interested in Software Engineering, Security and Machine Learning
-- ⚡ Ex-Web Application Penetration Tester
+# ⚡ About Me:
+
+I am a junior software engineer with a passion for mathematics and computer science . I have a good background in web application security, and I am still actively involved in bug hunting and vulnerability research. However, my primary focus is now on software engineering, and I now enjoy building secure and high-quality software.
 
 
 ## 🌐 Socials:
