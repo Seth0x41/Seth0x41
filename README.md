@@ -5,7 +5,7 @@
 
 # ⚡ About Me:
 
-I am a junior software engineer with a passion for mathematics and computer science . I have a good background in web application security, and I am still actively involved in bug hunting and vulnerability research. However, my primary focus is now on software engineering, and I now enjoy building secure and high-quality software.
+I am a software engineer with a passion for mathematics and computer science . I have a good background in web application security, and I am still actively involved in bug hunting and vulnerability research. However, my primary focus is now on software engineering, and I now enjoy building secure and high-quality software.
 
 
 ## 🌐 Socials:
