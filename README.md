@@ -2,7 +2,7 @@
 
 # ⚡ About Me:
 
-I am a software engineer who loves mathematics and computer science, is interested in software engineering and web security, and sharing thoughts at [my blog](https://seth0x41.github.io/).
+I am a software engineer who loves mathematics and computer science, is interested in software engineering and web security, and sharing thoughts on [my blog](https://seth0x41.github.io/).
 
 ---
 
