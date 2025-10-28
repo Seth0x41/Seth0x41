@@ -21,6 +21,6 @@ A few open source contributions and projects I’m involved in:
 I work mainly with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,php,fastapi,flask,nginx,mysql,docker,azure&perline=30" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,php,fastapi,flask,nginx,mysql,docker&perline=30" />
 </p>
 
